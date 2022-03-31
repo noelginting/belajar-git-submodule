@@ -5,3 +5,7 @@ function sayHello (name){
 function sayGuest (){
     return "Hello";
 }
+
+function sub (a,b){
+    return a+b;
+}
